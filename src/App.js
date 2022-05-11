@@ -4,6 +4,7 @@ import React from 'react'
 import Navbar from './component/Navbar'
 import News from './component/News'
 import {BrowserRouter, Routes, Route } from 'react-router-dom';
+import './App.css'
 
 // learn routing in detail from https://www.geeksforgeeks.org/reactjs-router/
 // also check es5 to es6 shifting guide --> https://reacttraining.com/blog/react-router-v6-pre/

@@ -1,3 +1,23 @@
-.card{
-    padding: 300px !important;
+*{
+    
 }
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20vw;
+    margin: auto;
+    padding: 13px 13px;
+    /* padding: 20px 20px; */
+    border-radius: 8px;
+
+    background-color: rgb(230, 230, 230);
+    backdrop-filter: blur(1rem);
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    border: 2px solid #ff009d;
+    padding: 10px 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }

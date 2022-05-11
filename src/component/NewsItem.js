@@ -23,7 +23,8 @@ const NewsItem = (props) =>{
     return(
     
         <div>
-            <div className="card my-1" key={newsKey} style={{width: "18rem", margin: "auto", padding:'0.1rem', backgroundColor: "rgb(229 229 229 / 63%)"}}>
+            {/* <div className="card my-1" key={newsKey} style={{width: "18rem", margin: "auto", padding:'0.1rem', backgroundColor: "rgb(229 229 229 / 63%)"}}> */}
+            <div className="card my-2" key={newsKey}>
                 <img src={imageUrl?imageUrl:"https://image.shutterstock.com/image-vector/no-image-available-sign-absence-260nw-373243873.jpg"} className="card-img-top" alt="..." />
 
                 {/* <img src={props.imageUrl?props.imageUrl:"https://image.shutterstock.com/image-vector/no-image-available-sign-absence-260nw-373243873.jpg"} className="card-img-top" alt="..." /> */}
@@ -31,7 +32,7 @@ const NewsItem = (props) =>{
                     <h5 className="card-title">{title}</h5>
                     <p className="card-text"> {desc}</p>
                     
-                    <p className="card-text"><small className="text-muted">By {(author ? author : "Unknown")}<br /> Published At: {hours} : {minutes} {(hours<12)? "am." : "pm"} on {date}/{month + 1 }</small></p>
+                    <p className="card-text"><small className="text-muted">By {(author ? author : "Unknown")}<br /> Published At: {hours}:{minutes} {(hours<12)? "am." : "pm"} on {date}/{month + 1 }</small></p>
                     
                     {/* {console.log(datee)} */}
                     {/* {console.log(publishedAt.getMonth())} */}

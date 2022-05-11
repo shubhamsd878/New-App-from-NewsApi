@@ -17,7 +17,7 @@ export default function Navbar(){
                 </button>
                 <div className="collapse navbar-collapse" style={{margin:'auto'}} id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto mb-2 mb-lg-0" > 
-                    <li className="nav-item ">
+                    <li className="nav-item " style={{marginLeft:'4%'}}>
                     {/* <Link className="nav-link active" aria-current="page" to="/">Home</Link> */}
                     <Link className="nav-link" aria-current="page" to="/" >Home</Link>
                     </li>   
@@ -39,7 +39,7 @@ export default function Navbar(){
                     <li className="nav-item">
                     <Link className="nav-link" to="/sports"> Sports</Link>
                     </li>
-                    <li className="nav-item">
+                    <li className="nav-item" >
                     <Link className="nav-link" to="/technology"> Technology</Link>
                     </li>
                     {/* businesse ntertainment general health science sports technology */}

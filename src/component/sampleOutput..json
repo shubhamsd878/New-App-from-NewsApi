@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    -"articles": [
+    -{
+    -"source": {
+    "id": null,
+    "name": "Investing.com"
+    },
+    "author": "Reuters",
+    "title": "Wall Street set for second day of losses; US 10-year yield near 2% By Reuters - Investing.com",
+    "description": "Wall Street set for second day of losses; U.S. 10-year yield near 2%",
+    "url": "https://www.investing.com/news/economy/asian-shares-fall-us-treasury-yields-hold-firm-after-us-inflation-data-2761922",
+    "urlToImage": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_800x533_L_1414427437.jpg",
+    "publishedAt": "2022-02-11T12:35:00Z",
+    "content": "By Elizabeth Howcroft\r\nLONDON (Reuters) - European stock indexes fell on Friday, Wall Street futures were down and the U.S. 10-year yield held close to 2% after red-hot U.S. inflation data that promp… [+2821 chars]"
+    },
+    -{
+    -"source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Fed Doesn't Yet Favor a Half-Point Hike or an Emergency Move - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=818964b1-8b39-11ec-81b3-4e424f794850&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMi0xMS9mZWQtZG9lc24tdC15ZXQtZmF2b3ItYS1oYWxmLXBvaW50LWhpa2Utb3ItYW4tZW1lcmdlbmN5LW1vdmU=",
+    "urlToImage": null,
+    "publishedAt": "2022-02-11T12:18:37Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    -{
+    -"source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Tom Warren",
+    "title": "SSD prices could spike after Western Digital loses 6.5 billion gigabytes of NAND chips - The Verge",
+    "description": "Western Digital says it has lost at least 6.5 billion gigabytes of NAND flash storage. A contamination issue at production facilities has resulted in the huge loss that could impact SSD pricing.",
+    "url": "https://www.theverge.com/2022/2/11/22928867/western-digital-nand-flash-storage-contamination",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/sRcQjPYevPL9rESuO-xA6UPTIeo=/0x305:1280x975/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21946160/wd_black_sn850_nvme_ssd_family.png.thumb.1280.1280.png",
+    "publishedAt": "2022-02-11T11:58:25Z",
+    "content": "A manufacturing contamination has led to big losses\r\nImage: Western Digital\r\nWestern Digital says it has lost at least 6.5 exabytes (6.5 billion gigabytes) of flash storage due to contamination issue… [+1244 chars]"
+    },
+    -{
+    -"source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Joseph Ataman, CNN Business",
+    "title": "France announces plans to build up to 14 nuclear reactors - CNN",
+    "description": "France has announced plans to build up to 14 new nuclear reactors in a move that could help reduce greenhouse gas emissions and provide a buffer against volatile energy prices.",
+    "url": "https://www.cnn.com/2022/02/11/business/nuclear-power-france/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220211044012-macron-nuclear-announcement-02102022-super-tease.jpg",
+    "publishedAt": "2022-02-11T10:58:00Z",
+    "content": null
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Ryan Browne",
+    "title": "Delivery Hero CEO apologizes to investors after 30% stock plunge, vows to stay the course - CNBC",
+    "description": "Delivery Hero CEO Niklas Östberg said he's \"truly sorry for all shareholders\" after the food delivery firm's stock price plunged 30% on Thursday.",
+    "url": "https://www.cnbc.com/2022/02/11/delivery-hero-ceo-apologizes-to-investors-after-30percent-stock-plunge.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107014063-1644569777246-gettyimages-1149674018-GERMANY_NOAH.jpeg?v=1644569908",
+    "publishedAt": "2022-02-11T10:53:41Z",
+    "content": "The boss of European food delivery firm Delivery Hero has apologized to investors after shares of the company plummeted more than 30% on disappointing earnings guidance for 2022.\r\n\"Today our share pr… [+2402 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Cointelegraph"
+    },
+    "author": "William Suberg",
+    "title": "Bitcoin metrics demand BTC price gains as analysis calls for ‘near-term caution’ - Cointelegraph",
+    "description": "BTC price action may dip below $40,000 before the overall recovery continues for Bitcoin bulls.",
+    "url": "https://cointelegraph.com/news/bitcoin-metrics-demand-btc-price-gains-as-analysis-calls-for-near-term-caution",
+    "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMTMwMjQ3MzYtNDBhNC00NDUwLWJiZmYtMTdkYWNhZjFiN2EwLmpwZw==.jpg",
+    "publishedAt": "2022-02-11T10:08:30Z",
+    "content": "Bitcoin (BTC) has a possibility of winning back more lost ground this month, but a retest of $40,000 may test bulls beforehand.\r\nIn its latest market update on Feb. 11, trading suite Decentrader voic… [+1888 chars]"
+    },
+    -{
+    -"source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jackie Wattles, CNN Business",
+    "title": "Elon Musk gives hotly anticipated Starship update, but it's light on new details - CNN",
+    "description": "SpaceX CEO Elon Musk spoke for over an hour Thursday night in a hotly anticipated discussion about Starship, which the company hopes will one day take humans to Mars and that will play a key role in NASA's plans to return humans to the moon for the first time…",
+    "url": "https://www.cnn.com/2022/02/11/tech/elon-musk-spacex-starship-update-scn/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220210182937-02-elon-musk-rocket-update-super-tease.jpg",
+    "publishedAt": "2022-02-11T09:44:00Z",
+    "content": "New York (CNN Business)SpaceX CEO Elon Musk spoke for over an hour Thursday night in a hotly anticipated discussion about Starship, which the company hopes will one day take humans to Mars and that w… [+5606 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Megan Henney",
+    "title": "Red-hot inflation gave most Americans a pay cut in January - Fox Business",
+    "description": "The tightest labor market in years is fueling rapid wage gains for most workers – the only problem is that red-hot inflation is quickly eroding those increases.",
+    "url": "https://www.foxbusiness.com/economy/hottest-inflation-in-40-years-eating-away-at-americans-wage-gains",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/Inflation-Grocery-Store-Prices.jpg?ve=1&tl=1",
+    "publishedAt": "2022-02-11T07:03:24Z",
+    "content": "The tightest labor market in years is fueling rapid wage gains for most workers – the only problem is that red-hot inflation\r\n is quickly eroding those increases. \r\nThe Labor Department reported on F… [+3072 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sumathi Bala",
+    "title": "U.S. inflation data is like a 'punch in the stomach' for the Fed, says Citi economist - CNBC",
+    "description": "That means the next Fed rate hike could be as aggressive as 50 basis points, said Nathan Sheets, global chief economist at Citi Research.",
+    "url": "https://www.cnbc.com/2022/02/11/us-inflation-data-like-a-punch-in-the-stomach-for-the-fed-citi-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106988488-1639415901402-gettyimages-1237211987-US_STOCKS.jpeg?v=1640175231",
+    "publishedAt": "2022-02-11T05:16:15Z",
+    "content": "The latest U.S. January inflation data came in like a \"punch in the stomach\" for the Federal Reserve, which raises the possibility for an aggressive 50 basis points rate hike in March, the global chi… [+2999 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Guardian staff reporter",
+    "title": "Biden administration plans to spend $5bn to build EV charging network across US - The Guardian",
+    "description": "Electric vehicle stations to be placed every 50 miles along interstate highways to spur adoption of zero-emission cars",
+    "url": "https://amp.theguardian.com/environment/2022/feb/11/biden-administration-plans-to-spend-5bn-to-build-ev-charging-network-across-us",
+    "urlToImage": "https://i.guim.co.uk/img/media/50c0f67872f7c75ffe471bdff67affcd28fefc1e/0_80_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85cf3eab1ecb4593c0394594c49cdf24",
+    "publishedAt": "2022-02-11T03:51:00Z",
+    "content": "The Biden administration has unveiled a plan to award nearly $5bn over five years to build thousands of electric vehicle charging stations.\r\nThe nationwide network of electric vehicle charging statio… [+3677 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Futures: Market Rally Sells Off On Hot Inflation, 'Dramatically' More-Hawkish Fed - Investor's Business Daily",
+    "description": "Stocks reversed from key levels Thursday, with the S&P 500 still rangebound.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-sells-off-on-hot-inflation-dramatically-more-hawkish-fed/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2019/01/stock-FederalReserve-snow-11-shutter.jpg",
+    "publishedAt": "2022-02-11T02:55:00Z",
+    "content": "Dow Jones futures fell modestly overnight, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally sold off Thursday as Treasury yields soared on a hot inflation report and expectat… [+8996 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "Your Super Bowl Sunday chicken wings will cost an arm and a leg - Fox Business",
+    "description": "The price of chicken wings is up amid high inflation and high demand ahead of Super Bowl Sunday.",
+    "url": "https://www.foxbusiness.com/lifestyle/your-super-bowl-sunday-chicken-wings-will-cost-an-arm-and-a-leg",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/wings.jpg?ve=1&tl=1",
+    "publishedAt": "2022-02-11T02:46:05Z",
+    "content": "It's no secret that inflation is hitting Americans in the wallet across the board, but the demand for chicken – and particularly wings – since the pandemic began has left Super Bowl fans wondering ho… [+2617 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Bitcoin.com"
+    },
+    "author": null,
+    "title": "Fintech Specialists Predict Ethereum Price Hitting $6500 This Year Before Rising to $26338 by 2030 – Markets and Prices Bitcoin News - Bitcoin News",
+    "description": "A panel of fintech specialists has predicted that the price of ethereum will reach $6,500 by year-end, and will then rise to $10,810 by 2025.",
+    "url": "https://news.bitcoin.com/fintech-specialists-predict-ethereum-price-hitting-6500-this-year-26338-2030/",
+    "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/finders.jpg",
+    "publishedAt": "2022-02-11T02:35:35Z",
+    "content": "A panel of fintech specialists has predicted that the price of ethereum will reach $6,500 by year-end. It will then rise to $10,810 by 2025 before more than doubling to $26,338 by 2030.\r\nPrice compar… [+2834 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Novavax.com"
+    },
+    "author": null,
+    "title": "Novavax Statement on First Administration of its COVID-19 Vaccine in Australia - Novavax Investor Relations",
+    "description": "The first dose of Nuvaxovid™ COVID-19 Vaccine (recombinant, adjuvanted) was administered today in Australia during a press briefing by The Hon Greg Hunt MP, Federal Minister for Health and Aged...",
+    "url": "https://ir.novavax.com/Novavax-Statement-on-First-Administration-of-its-COVID-19-Vaccine-in-Australia",
+    "urlToImage": "https://mma.prnewswire.com/media/1506866/Novavax_High_Res_Logo.jpg?p=facebook",
+    "publishedAt": "2022-02-11T02:10:55Z",
+    "content": "The first dose of Nuvaxovid™ COVID-19 Vaccine (recombinant, adjuvanted) was administered today in Australia during a press briefing by The Hon Greg Hunt MP, Federal Minister for Health and Aged Care.… [+1484 chars]"
+    },
+    -{
+    -"source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "California sues Tesla over Black workers' allegations of discrimination - Reuters",
+    "description": "A California state agency has sued Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> over allegations by some Black workers that the company tolerated racial discrimination at an assembly plant, adding to claims made in…",
+    "url": "https://www.reuters.com/business/california-agency-sues-tesla-over-alleged-discrimination-harassment-wsj-2022-02-10/",
+    "urlToImage": "https://www.reuters.com/resizer/xLRnobWj8spNRGnRSnuYIQl7H4Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H4HFE3EQTVIJRKG7DUQUOOWXGU.jpg",
+    "publishedAt": "2022-02-11T01:54:00Z",
+    "content": "Feb 10 (Reuters) - A California state agency has sued Tesla Inc (TSLA.O) over allegations by some Black workers that the company tolerated racial discrimination at an assembly plant, adding to claims… [+3830 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "Cointelegraph"
+    },
+    "author": "Brian Quarmby",
+    "title": "YouTube sees ‘incredible potential’ in NFT video sales despite backlash threat - Cointelegraph",
+    "description": "YouTube's Chief Product Officer highlighted ways YouTube creators could utilize NFT tech, including tokenizing their videos, photos, art and experiences as a new way to engage with fans.",
+    "url": "https://cointelegraph.com/news/youtube-sees-incredible-potential-in-nft-video-sales-despite-backlash-threat",
+    "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMTEyYWZlZDYtMjJkZS00NTVlLWJhN2QtNzUyYzEyNTEzNGJmLmpwZw==.jpg",
+    "publishedAt": "2022-02-11T01:51:57Z",
+    "content": "YouTube is looking at NFT integrations to provide new methods for creators to engage with fans and develop additional revenue streams. \r\nThe news comes just a few weeks after YouTube CEO Susan Wojcic… [+3621 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "KSL.com"
+    },
+    "author": "David Shepardson, Reuters",
+    "title": "Tesla recalls nearly 579000 US vehicles over pedestrian warning risk sounds - KSL.com",
+    "description": "Tesla is recalling 578,607 vehicles in the United States because pedestrians may be unaware of an approaching vehicle if warning risk sounds are obscured, U.S. regulators said Thursday.",
+    "url": "https://www.ksl.com/article/50345714/tesla-recalls-nearly-579000-us-vehicles-over-pedestrian-warning-risk-sounds",
+    "urlToImage": "https://img.ksl.com/slc/2863/286340/28634084.JPG?filter=kslv2/responsive_story_lg",
+    "publishedAt": "2022-02-11T01:31:43Z",
+    "content": "Estimated read time: 2-3 minutes\r\nWASHINGTON Tesla is recalling 578,607 vehicles in the United States because pedestrians may be unaware of an approaching vehicle if warning risk sounds are obscured,… [+2079 chars]"
+    },
+    -{
+    -"source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Steve Matthews",
+    "title": "Fed's James Bullard Supports Rate Hikes of Full Point by July - Bloomberg",
+    "description": "Federal Reserve Bank of St. Louis President James Bullard said he supports raising interest rates by a full percentage point by the start of July -- including the first half-point hike since 2000 -- in response to the hottest inflation in four decades.",
+    "url": "https://www.bloomberg.com/news/articles/2022-02-10/fed-s-bullard-backs-supersized-hike-seeks-full-point-by-july-1",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir2RPasNv9tM/v0/1200x900.jpg",
+    "publishedAt": "2022-02-11T01:27:00Z",
+    "content": "Sign up for the New Economy Daily newsletter, follow us @economics and subscribe to our podcast\r\nFederal Reserve Bank of St. Louis President James Bullard said he supports raising interest rates by a… [+149 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Arjun Kharpal",
+    "title": "Europe wants to become a leader in chips. But it's going to need help - CNBC",
+    "description": "Chips are critical for products from refrigerators to cars and smartphones, but a global crunch has impacted industries across the board.",
+    "url": "https://www.cnbc.com/2022/02/11/eu-chips-act-europe-will-need-help-from-us-asia-to-achieve-goals.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106946317-1632403574968-gettyimages-1210742344-_dsc5535-1.jpeg?v=1644453481",
+    "publishedAt": "2022-02-11T01:21:00Z",
+    "content": "A technologist inspects a computer chip.\r\nEuropean Union lawmakers have laid out ambitious plans to significantly ramp up production of semiconductors in the bloc and become a global leader in the in… [+5983 chars]"
+    },
+    -{
+    -"source": {
+    "id": null,
+    "name": "OilPrice.com"
+    },
+    "author": "Irina Slav",
+    "title": "Geopolitical Risk Premium Could Send Oil Prices To $120 - OilPrice.com",
+    "description": "Oil bulls are raising price predictions on growing fears of a potential Russian invasion of Ukraine",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Geopolitical-Risk-Premium-Could-Send-Oil-Prices-To-120.html",
+    "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-02-10_xdfcirgahm.jpg",
+    "publishedAt": "2022-02-11T01:00:00Z",
+    "content": "OPECs low spare output capacity…\r\nThe oil market is heading…\r\nOil prices reversed earlier losses…\r\nBy Irina Slav - Feb 10, 2022, 7:00 PM CSTThere are already plenty of oil bulls out there, but anothe… [+3781 chars]"
+    }
+    ]
+    }
